@@ -2,7 +2,7 @@
 - 👀 I’m interested in web3 and smart contracts development
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on future blockchain projects
-- 📫 How to reach me oz.hades10"gmail.com
+- 📫 How to reach me oz.hades10@gmail.com
 - 😄 Pronouns: 1)what 
   
 
