@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @quantumevalues
-- 👀 I’m interested in web3 and smart contract
+- 👀 I’m interested in web3 and smart contracts development
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on future blockchain projects
 - 📫 How to reach me oz.hades10"gmail.com
